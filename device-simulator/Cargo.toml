@@ -1,0 +1,8 @@
+[package]
+name = "device-simulator"
+edition.workspace = true
+version.workspace = true
+license.workspace = true
+
+[dependencies]
+telemetry-protocol = { workspace = true }
